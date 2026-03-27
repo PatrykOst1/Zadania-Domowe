@@ -1,0 +1,14 @@
+C:\Python.strefa robocza\MojeZadania\CSharp\bin\Debug\net10.0\CSharp.exe
+C:\Python.strefa robocza\MojeZadania\CSharp\bin\Debug\net10.0\CSharp.deps.json
+C:\Python.strefa robocza\MojeZadania\CSharp\bin\Debug\net10.0\CSharp.runtimeconfig.json
+C:\Python.strefa robocza\MojeZadania\CSharp\bin\Debug\net10.0\CSharp.dll
+C:\Python.strefa robocza\MojeZadania\CSharp\bin\Debug\net10.0\CSharp.pdb
+C:\Python.strefa robocza\MojeZadania\CSharp\obj\Debug\net10.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Python.strefa robocza\MojeZadania\CSharp\obj\Debug\net10.0\CSharp.AssemblyInfoInputs.cache
+C:\Python.strefa robocza\MojeZadania\CSharp\obj\Debug\net10.0\CSharp.AssemblyInfo.cs
+C:\Python.strefa robocza\MojeZadania\CSharp\obj\Debug\net10.0\CSharp.csproj.CoreCompileInputs.cache
+C:\Python.strefa robocza\MojeZadania\CSharp\obj\Debug\net10.0\CSharp.dll
+C:\Python.strefa robocza\MojeZadania\CSharp\obj\Debug\net10.0\refint\CSharp.dll
+C:\Python.strefa robocza\MojeZadania\CSharp\obj\Debug\net10.0\CSharp.pdb
+C:\Python.strefa robocza\MojeZadania\CSharp\obj\Debug\net10.0\CSharp.genruntimeconfig.cache
+C:\Python.strefa robocza\MojeZadania\CSharp\obj\Debug\net10.0\ref\CSharp.dll
